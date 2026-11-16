@@ -3,7 +3,7 @@ plugins {
     pmd
     id("org.springframework.boot") version "4.1.1"
     id("io.spring.dependency-management") version "1.1.7"
-    id("com.diffplug.spotless") version "8.10.3"
+    id("com.diffplug.spotless") version "8.11.0"
 }
 
 description = "Norte4j API V2 (Spring Boot)"
